@@ -16,3 +16,6 @@ minutes = int(input("Write minutes: "))
 seconds = int(input("Write seconds: "))
 t1.SetData(hours, minutes, seconds)
 t1.PrintClock()
+
+t2 = Time(12,11,32)
+t2.PrintClock()
