@@ -19,3 +19,6 @@ t1.PrintClock()
 
 t2 = Time(12,11,32)
 t2.PrintClock()
+
+t3 = Time(12,11,32)
+t3.PrintClock()
